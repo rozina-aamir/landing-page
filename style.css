@@ -16,12 +16,6 @@ body {
     flex-direction: row;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0px;
-}
-
 a {
     text-decoration: none;
     color: #F9FAF8;
