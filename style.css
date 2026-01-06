@@ -53,3 +53,8 @@ p {
     font-size: 18px;
     max-width: 450px;
 }
+
+.hero-img {
+    height: auto;
+    max-width: 600px;
+}
