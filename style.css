@@ -60,6 +60,6 @@ p {
 
 .hero-img {
     max-height: 500px;
-    max-width: auto;
+    width: auto;
     overflow: hidden;
 }
