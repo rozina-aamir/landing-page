@@ -26,8 +26,3 @@ a {
     text-decoration: none;
     color: #F9FAF8;
 }
-
-li {
-    display: flex;
-    flex-direction: row;  
-}
