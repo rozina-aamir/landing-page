@@ -9,6 +9,7 @@ body {
     flex-direction: row;
     padding: 20px;
     justify-content: space-between;
+    margin: auto;
 }
 
 .links {
