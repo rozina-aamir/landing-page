@@ -37,6 +37,7 @@ a {
     margin: 0px;
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 
 p {
