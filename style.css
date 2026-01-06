@@ -58,7 +58,8 @@ p {
     max-width: 450px;
 }
 
-.hero-img {
+.hero-img,
+img {
     max-height: 500px;
     width: auto;
     overflow: hidden;
