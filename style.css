@@ -59,7 +59,7 @@ p {
 }
 
 .hero-img {
-    max-height: 600px;
+    max-height: 500px;
     max-width: auto;
     overflow: hidden;
 }
