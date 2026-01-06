@@ -11,6 +11,11 @@ body {
     justify-content: space-between;
 }
 
+.links {
+    display: flex;
+    flex-direction: row;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
