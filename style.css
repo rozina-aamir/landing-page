@@ -39,6 +39,7 @@ a {
     flex-direction: row;
     justify-content: space-around;
     padding: 20px 120px;
+    max-height: 500px;
 }
 
 p {
