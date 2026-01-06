@@ -35,6 +35,8 @@ a {
 .hero {
     background-color: #1F2937;
     margin: 0px;
+    display: flex;
+    flex-direction: row;
 }
 
 p {
