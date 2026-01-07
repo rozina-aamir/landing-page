@@ -37,8 +37,8 @@ a {
     margin: 0px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    padding: 100px;
+    justify-content: space-evenly;
+    padding: 100px 120px;
     max-height: 500px;
 }
 
