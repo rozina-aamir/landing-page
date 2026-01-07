@@ -114,6 +114,7 @@ p {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    max-width: 200px;
 }
 
 .one-card {
