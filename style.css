@@ -92,6 +92,7 @@ p {
     max-height: 250px;
     width: 250px;;
     overflow: hidden;
+    border-radius: 10px;
 }
 
 .one-card {
