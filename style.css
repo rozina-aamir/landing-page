@@ -109,7 +109,7 @@ p {
     border-radius: 10px;
 }
 
-.card-text {
+.card-text p {
     font-size: 18px;
     display: flex;
     flex-direction: row;
