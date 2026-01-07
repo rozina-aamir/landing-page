@@ -109,6 +109,10 @@ p {
     border-radius: 10px;
 }
 
+.card-text {
+    color: #E5E7EB;
+}
+
 .one-card {
     max-width: 250px;
 }
