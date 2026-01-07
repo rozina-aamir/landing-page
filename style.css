@@ -64,6 +64,7 @@ p {
     color: #F9FAF8;
     border-style: none;
     padding: 10px 20px;
+    border-radius: 10px;
 }
 
 .hero-img {
