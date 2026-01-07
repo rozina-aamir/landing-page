@@ -93,3 +93,7 @@ p {
     width: 250px;;
     overflow: hidden;
 }
+
+.one-card {
+    max-width: 250px;
+}
