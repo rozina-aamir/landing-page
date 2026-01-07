@@ -111,6 +111,8 @@ p {
 
 .card-text {
     font-size: 18px;
+    display: flex;
+    justify-content: center;
 }
 
 .one-card {
