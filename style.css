@@ -82,3 +82,8 @@ p {
     width: auto;
     overflow: hidden;
 }
+
+.cards {
+    display: flex;
+    flex-direction: row;
+}
