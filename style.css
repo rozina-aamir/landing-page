@@ -59,6 +59,10 @@ p {
     max-width: 450px;
 }
 
+.signup {
+    background-color: #3882F6;
+}
+
 .hero-img {
     max-height: 500px;
     width: auto;
