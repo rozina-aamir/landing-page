@@ -91,6 +91,8 @@ p {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
+    display: flex;
+    justify-content: center;
 }
 
 .cards {
