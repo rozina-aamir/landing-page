@@ -83,6 +83,10 @@ p {
     overflow: hidden;
 }
 
+.information {
+    padding: 100px 120px;
+}
+
 .random {
     color: #1F2937;
     font-size: 36px;
