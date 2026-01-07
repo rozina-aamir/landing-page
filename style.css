@@ -49,6 +49,7 @@ p {
 .awesome {
     display: flex;
     flex-direction: column;
+    gap: 10px;
 }
 
 .awesome-header {
