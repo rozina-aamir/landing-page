@@ -46,6 +46,11 @@ p {
     margin: 0px;
 }
 
+.awesome {
+    display: flex;
+    flex-direction: column;
+}
+
 .awesome-header {
     color: #F9FAF8;
     font-size: 48px;
