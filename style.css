@@ -119,4 +119,6 @@ p {
 
 .one-card {
     max-width: 250px;
+    display: flex;
+    flex-direction: column;
 }
