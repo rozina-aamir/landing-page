@@ -87,3 +87,9 @@ p {
     display: flex;
     flex-direction: row;
 }
+
+.card-img {
+    max-height: 250px;
+    width: auto;
+    overflow: hidden;
+}
