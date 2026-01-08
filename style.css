@@ -124,3 +124,8 @@ p {
     display: flex;
     flex-direction: column;
 }
+
+.testimonial {
+    display: flex;
+    flex-direction: column;
+}
