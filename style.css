@@ -145,7 +145,7 @@ p {
     max-width: 800px;
 }
 
-.person {
+.person p {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
