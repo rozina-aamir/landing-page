@@ -147,5 +147,6 @@ p {
 
 .person {
     display: flex;
+    flex-direction: row;
     justify-content: flex-end;
 }
