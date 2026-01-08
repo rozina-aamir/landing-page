@@ -126,6 +126,7 @@ p {
 }
 
 .testimonial {
+    background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
     padding: 100px 120px;
