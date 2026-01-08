@@ -149,4 +149,5 @@ p {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    flex-shrink: 3;
 }
