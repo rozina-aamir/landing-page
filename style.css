@@ -128,4 +128,5 @@ p {
 .testimonial {
     display: flex;
     flex-direction: column;
+    padding: 100px 120px;
 }
