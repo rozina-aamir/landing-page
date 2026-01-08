@@ -144,3 +144,8 @@ p {
     font-style: italic;
     max-width: 800px;
 }
+
+.person {
+    display: flex;
+    justify-content: flex-end;
+}
