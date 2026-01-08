@@ -127,7 +127,6 @@ p {
 
 .testimonial {
     background-color: #E5E7EB;
-    font-size: 36px;
     display: flex;
     flex-direction: column;
     padding: 100px 120px;
@@ -137,4 +136,5 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 36px;
 }
