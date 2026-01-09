@@ -167,7 +167,7 @@ p {
 }
 
 .signup-cta {
-    border-color: #F9FAF8;
+    border: #F9FAF8 1px solid;
 }
 
 .footer {
