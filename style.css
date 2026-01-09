@@ -168,8 +168,12 @@ p {
 
 .title-cta {
     color: #E5E7EB;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 24px;
+}
+
+.text-cta {
+    color: #E5E7EB;
 }
 
 .signup-cta {
