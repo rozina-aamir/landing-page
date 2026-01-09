@@ -167,7 +167,8 @@ p {
 }
 
 .signup-cta {
-    border: #F9FAF8 1px solid;
+    border: #F9FAF8 2px solid;
+    border-radius: 10px;
 }
 
 .footer {
