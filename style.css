@@ -166,6 +166,10 @@ p {
     gap: 10px;
 }
 
+.signup-cta {
+    border: #F9FAF8;
+}
+
 .footer {
     display: flex;
     justify-content: center;
