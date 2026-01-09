@@ -166,6 +166,12 @@ p {
     gap: 20px;
 }
 
+.title-cta {
+    color: #E5E7EB;
+    font-weight: 900;
+    font-size: 24px;
+}
+
 .signup-cta {
     border: #F9FAF8 2px solid;
     border-radius: 10px;
