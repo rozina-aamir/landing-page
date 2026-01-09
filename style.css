@@ -162,6 +162,7 @@ p {
     justify-content: center;
     align-items: center;
     padding: 30px 100px;
+    margin: 100px 120px;
     background-color: #3882F6;
     gap: 20px;
 }
