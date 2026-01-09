@@ -161,8 +161,8 @@ p {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 30px 100px;
-    margin: 50px 120px;
+    padding: 30px 50px;
+    margin: 100px 120px;
     background-color: #3882F6;
     gap: 20px;
 }
