@@ -156,6 +156,11 @@ p {
     color: #1F2937;
 }
 
+.cta {
+    display: flex;
+    flex-direction: row;
+}
+
 .footer {
     display: flex;
     justify-content: center;
