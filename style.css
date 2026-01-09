@@ -165,6 +165,7 @@ p {
     margin: 100px 120px;
     background-color: #3882F6;
     gap: 50px;
+    border-radius: 10px;
 }
 
 .title-cta {
