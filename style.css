@@ -159,6 +159,7 @@ p {
 .cta {
     display: flex;
     flex-direction: row;
+    padding: 30px 100px;
 }
 
 .footer {
