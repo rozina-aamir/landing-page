@@ -159,6 +159,8 @@ p {
 .cta {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
     padding: 30px 100px;
 }
 
